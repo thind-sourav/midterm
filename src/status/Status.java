@@ -6,6 +6,7 @@
 package status;
 
 import java.util.Scanner;
+import status.StausUser.List;
 
 /** This class takes String input from user 
  * and calls method statusDetail to print the 
